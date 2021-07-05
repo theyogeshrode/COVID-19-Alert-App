@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title_activity_login">Login</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="Name">नाम</string>
+    <string name="Email">ईमेल</string>
+    <string name="Password">पासवर्ड</string>
+    <string name="UID">आधार</string>
+    <string name="Mobile">मोबाइल</string>
+    <string name="City">शहर</string>
+    <string name="Register">रजिस्टर करें</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="changeLang">भाषा का चयन करें</string>
+
+
+    <string name="title_activity_mobile__verification">Mobile_Verification</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map__distance">Map_Distance</string>
+
+
+
+</resources>
